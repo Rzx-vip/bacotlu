@@ -1,0 +1,15 @@
+{
+  "name": "yanz-md-telegram",
+  "version": "1.2.0",
+  "description": "Telegram Bot Moderation & Features Script",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.8.4",
+    "fs-extra": "^11.2.0",
+    "pino": "^9.0.0",
+    "telegraf": "^4.16.3"
+  }
+}
